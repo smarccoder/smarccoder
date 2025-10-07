@@ -15,7 +15,7 @@ import Quality Assurance Engineer from 'smarccoder';
 class Bio extends Quality Assurance Engineer  {
   name     = 'Marc Marquez';
   title    = 'Software Engineer';
-  phone    = '+59172729204';
+  phone    = '+ 59172729204';
   location = 'Bolivia, BO';
 }
 
