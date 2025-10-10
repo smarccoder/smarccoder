@@ -26,11 +26,11 @@ class Skills extends SoftwareDeveloper {
 }
 
 class Tools {
-  API Testing       = Postman, Insomnia, REST Assured
-  CI/CD Integration = Azure DevOps, GitHub Actions
-  Version Control   = Git, GitHub
-  Test Management   = XRail, Zephyr
-  Bug Tracking      = JIRA, Trello, Notion
+  API Testing       = ['Postman', 'Insomnia', 'REST', 'Assured'];
+  CI/CD Integration = ['Azure', 'DevOps', 'GitHub', 'Actions'];
+  Version Control   = ['Git', 'GitHub'];
+  Test Management   = ['XRail', 'Zephyr'];
+  Bug Tracking      = [ 'JIRA', 'Trello', 'Notion'];
 }
 
 class Additional Skills {
