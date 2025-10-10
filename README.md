@@ -85,5 +85,7 @@ I am a software and quality assurance engineer. I specialize in developing autom
 
 ## CV
 You can download my CV as a PDF from my Google Drive: **[View CV](https://docs.google.com/document/d/1rHpuAcI-vvdF6ZnCDIB3gCCZmv_nxRIS/edit?usp=sharing)**
+
+Thank you for exploring my portfolio! I look forward to leveraging my skills and experience to drive excellence in software quality and contribute to impactful projects.
   
 Last Edited on: 01/10/2025
