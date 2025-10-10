@@ -44,11 +44,6 @@ class Additional Skills {
 - [About Me](#about-me)
 - [Key Skills & Expertise](#key-skills--expertise)
 - [Courses & Certifications](#courses--certifications)
-- [Portfolio Sections](#portfolio-sections)
-  - [1. Test Cases and Work in TestRail](#1-test-cases-and-work-in-testrail)
-  - [2. Bug Reports and Work in JIRA, Google Sheets](#2-bug-reports-and-work-in-jira-google-sheets)
-  - [3. Automation Scripts](#3-automation-scripts)
-  - [4. Mind Maps and Diagrams](#4-mind-maps-and-diagrams)
 - [CV](#cv)
     
  ## About Me
