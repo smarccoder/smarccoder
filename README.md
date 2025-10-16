@@ -26,15 +26,13 @@ class Skills extends Quality Assurance {
 }
 
 class Tools {
-  API Testing       = ['Postman', 'Insomnia', 'REST', 'Assured'];
-  CI/CD Integration = ['Azure DevOps', 'GitHub Actions'];
-  VersionControl   = ['Git', 'GitHub'];
-  TestManagement   = ['XRail', 'Zephyr'];
-  BugTracking      = [ 'JIRA', 'Trello', 'Notion'];
+  API Testing        = ['Postman', 'Insomnia', 'REST', 'Assured'];
+  CI/CD Integration  = ['Azure DevOps', 'GitHub Actions'];
+  VersionControl     = ['Git', 'GitHub'];
+  TestManagement     = ['XRail', 'Zephyr'];
+  BugTracking        = [ 'JIRA', 'Trello', 'Notion'];
 }
 
-```
-```json
 class Additional Skills {
   ["Knowledge of SDLC", "STLC", "and Bug Life Cycle"],
   ["Familiar with BDD/TDD"],
@@ -44,11 +42,11 @@ class Additional Skills {
 }
 ```
 ## Table of Contents
-- [About Me](#about-me)
+- [Biography](#Biography)
 - [Key Skills & Expertise](#key-skills--expertise)
 - [CV](#cv)
     
- ## About Me
+ ## Biography
 I am a software and quality assurance engineer. I specialize in developing automated regression tests and integrating AI techniques for efficiency and quality assurance in agile environments. I focus on tools like Playwright and Cypress for UI/API testing, achieving high test coverage, and reducing defects. I am passionate about improving software quality through AI techniques like Prompt Engineering to deliver reliable software faster, and I am excited about opportunities in global and remote teams.
 
 **Goals:**
@@ -78,6 +76,26 @@ I am a software and quality assurance engineer. I specialize in developing autom
     - Functional Testing
     - Security Testing
     - End-to-End Testing
+ 
+- **Automation Testing Types**:
+    - Unit Test Automation
+    - Integration Test Automation
+    - API Automation Testing
+    - UI Automation Testing
+    - Regression Test Automation
+    - Smoke Test Automation
+    - Functional Automation Testing
+    - End-to-End (E2E) Automation Testing
+    - Performance Automation Testing
+    - Load & Stress Automation Testing
+    - Cross-browser Automation Testing
+    - Data-driven Testing
+    - Keyword-driven Testing
+    - Behavior-driven Development (BDD) Testing
+    - Continuous Testing (CI/CD Integration)
+    - Security Automation Testing
+    - Compatibility Automation Testing
+    - Acceptance Test Automation (UAT Automation)
  
 
 ## CV
