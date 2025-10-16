@@ -28,14 +28,14 @@ class Skills extends Quality Assurance {
 class Tools {
   API Testing       = ['Postman', 'Insomnia', 'REST', 'Assured'];
   CI/CD Integration = ['Azure DevOps', 'GitHub Actions'];
-  Version Control   = ['Git', 'GitHub'];
-  Test Management   = ['XRail', 'Zephyr'];
-  Bug Tracking      = [ 'JIRA', 'Trello', 'Notion'];
+  VersionControl   = ['Git', 'GitHub'];
+  TestManagement   = ['XRail', 'Zephyr'];
+  BugTracking      = [ 'JIRA', 'Trello', 'Notion'];
 }
 
 ```
 ```json
-Additional Skills {
+class Additional Skills {
   ["Knowledge of SDLC", "STLC", "and Bug Life Cycle"],
   ["Familiar with BDD/TDD"],
   ["node", "express", "nest"],
