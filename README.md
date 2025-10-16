@@ -35,9 +35,9 @@ class Tools {
 
 ```
 ```json
-{
+Additional Skills {
   ["Knowledge of SDLC", "STLC", "and Bug Life Cycle"],
-  [" Familiar", "with BDD/TDD"],
+  ["Familiar with BDD/TDD"],
   ["node", "express", "nest"],
   ["Test Data Preparation and Management"],
   ["Team Leading and Mentoring Experience"],
