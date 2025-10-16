@@ -12,14 +12,14 @@
 ```js
 import Quality Assurance Engineer from 'smarccoder';
 
-class Bio extends Quality Assurance Engineer  {
+class Bio extends Quality Assurance {
   name     = 'Marc Marquez';
   title    = 'Software Engineer';
   phone    = '+ 59172729204';
   location = 'Bolivia, BO';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends Quality Assurance {
   languages  = ['JavaScript', 'Java', 'TypeScript'];
   databases  = ['MySQL', 'PostgreSQL', 'MongoDB'];
   frameworks = ['Playwright', 'Cypress', 'Cucumber'];
@@ -27,23 +27,25 @@ class Skills extends SoftwareDeveloper {
 
 class Tools {
   API Testing       = ['Postman', 'Insomnia', 'REST', 'Assured'];
-  CI/CD Integration = ['Azure', 'DevOps', 'GitHub', 'Actions'];
+  CI/CD Integration = ['Azure DevOps', 'GitHub Actions'];
   Version Control   = ['Git', 'GitHub'];
   Test Management   = ['XRail', 'Zephyr'];
   Bug Tracking      = [ 'JIRA', 'Trello', 'Notion'];
 }
 
-class Additional Skills {
-  Knowledge of SDLC, STLC, and Bug Life Cycle
-  Familiar with BDD/TDD
-  Test Data Preparation and Management
-  Team Leading and Mentoring Experience
+```
+```json
+{
+  ["Knowledge of SDLC", "STLC", "and Bug Life Cycle"],
+  [" Familiar", "with BDD/TDD"],
+  ["node", "express", "nest"],
+  ["Test Data Preparation and Management"],
+  ["Team Leading and Mentoring Experience"],
 }
 ```
 ## Table of Contents
 - [About Me](#about-me)
 - [Key Skills & Expertise](#key-skills--expertise)
-- [Courses & Certifications](#courses--certifications)
 - [CV](#cv)
     
  ## About Me
