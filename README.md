@@ -21,7 +21,7 @@ class Bio extends Quality Assurance {
 
 class Skills extends Quality Assurance {
   languages  = ['JavaScript', 'Java', 'TypeScript'];
-  databases  = ['MySQL', 'PostgreSQL', 'MongoDB'];
+  databases  = ['MySQL', 'PostgreSQL', 'Firebase'];
   frameworks = ['Playwright', 'Cypress', 'Cucumber'];
 }
 
@@ -30,7 +30,7 @@ class Tools {
   CI/CD Integration  = ['Azure DevOps', 'GitHub Actions'];
   VersionControl     = ['Git', 'GitHub'];
   TestManagement     = ['XRail', 'Zephyr'];
-  BugTracking        = [ 'JIRA', 'Trello', 'Notion'];
+  BugTracking        = [ 'JIRA', 'Trello', 'Notion', 'Qase'];
 }
 
 class Additional Skills {
