@@ -14,23 +14,24 @@ import Quality Assurance Engineer from 'smarccoder';
 
 class Bio extends Quality Assurance {
   name     = 'Marc Marquez';
-  title    = 'Software Engineer';
-  phone    = '+ 59172729204';
+  title    = 'Quality Engineer';
+  phone    = '+59172729204';
   location = 'Bolivia, BO';
 }
 
 class Skills extends Quality Assurance {
   languages  = ['JavaScript', 'Java', 'TypeScript'];
-  databases  = ['MySQL', 'PostgreSQL', 'Firebase'];
+  databases  = ['SQL', 'NoSQL'];
   frameworks = ['Playwright', 'Cypress', 'Cucumber'];
 }
 
 class Tools {
-  API Testing        = ['Postman', 'Insomnia', 'REST', 'Assured'];
+  API Testing        = ['Postman', 'REST', 'Assured'];
   CI/CD Integration  = ['Azure DevOps', 'GitHub Actions'];
-  VersionControl     = ['Git', 'GitHub'];
+  VersionControl     = ['GitHub'];
+  Databases          = ['Firebase', 'PostgreSQL']
   TestManagement     = ['XRail', 'Zephyr'];
-  BugTracking        = [ 'JIRA', 'Trello', 'Notion', 'Qase'];
+  BugTracking        = ['JIRA', 'Trello', 'Notion', 'Qase'];
 }
 
 class Additional Skills {
